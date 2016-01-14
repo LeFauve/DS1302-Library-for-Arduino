@@ -1,0 +1,14 @@
+DS1302	KEYWORD1
+DS1302_clock	KEYWORD1
+clockRead	KEYWORD2
+clockRead12	KEYWORD2
+clockWrite	KEYWORD2
+clockWrite12	KEYWORD2
+registerRead	KEYWORD2
+registerWrite	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+toggleRead	KEYWORD2
+toggleWrite	KEYWORD2
+clockBurstWrite	KEYWORD2
+clockBurstRead	KEYWORD2
